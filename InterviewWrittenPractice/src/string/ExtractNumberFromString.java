@@ -13,6 +13,7 @@ public class ExtractNumberFromString {
 		
 		System.out.print("Enter String that contains Numbers : ");
 		str = scr.nextLine();
+		scr.close();
 		
 		//extracting String
 		numbers = str.replaceAll("[^0-9]", "");
@@ -20,3 +21,10 @@ public class ExtractNumberFromString {
 		System.out.println("Numbers are : " + numbers);
 	}
 }
+
+/*
+ *  Input :- Mukesh@1990
+ *  
+ *  Output :- 1990
+ */
+

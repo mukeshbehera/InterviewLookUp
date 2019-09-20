@@ -2,7 +2,7 @@ package number;
 
 import java.util.Scanner;
 
-public class ReverseNumber {
+public class ReverseNumberUserInput {
 	
 	public static void main(String[] args) {
 		Scanner scr = new Scanner(System.in);

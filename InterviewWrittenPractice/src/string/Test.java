@@ -4,18 +4,13 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		int num=12358;
-		int rev = 0;
-		
-		while(num != 0)
-		{
-			rev = rev*10;
-			rev = rev+num%10;
-			num = num/10;
-		}
-		
-		System.out.println(rev);
-		
+			String s1 = "Java";
+			String s2 = new String("Java");
+			
+			
+			System.out.println(s1==s2);
+			System.out.println(s1.equals(s2));
+
 	}
 
 }
