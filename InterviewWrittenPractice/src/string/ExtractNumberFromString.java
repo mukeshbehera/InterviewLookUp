@@ -23,8 +23,8 @@ public class ExtractNumberFromString {
 }
 
 /*
- *  Input :- Mukesh@1990
+ *  Input :- Mukesh@1991
  *  
- *  Output :- 1990
+ *  Output :- 1991
  */
 
