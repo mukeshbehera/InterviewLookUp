@@ -15,7 +15,7 @@ public class ExtractNumberFromString {
 		str = scr.nextLine();
 		scr.close();
 		
-		//extracting String
+		//extracting Number
 		numbers = str.replaceAll("[^0-9]", "");
 		
 		System.out.println("Numbers are : " + numbers);

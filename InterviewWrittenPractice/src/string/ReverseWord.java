@@ -17,3 +17,9 @@ public class ReverseWord {
 	}
 
 }
+
+/*
+ *  Input :- India is a great country
+ *  
+ *  Output :- country great a is India 
+ */

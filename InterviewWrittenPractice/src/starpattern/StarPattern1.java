@@ -12,3 +12,10 @@ public class StarPattern1 {
 		}
 	}
 }
+ /*
+  * Output :- *
+  			  **
+  			  ***
+  			  ****
+  			  *****
+  */

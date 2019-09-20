@@ -26,8 +26,12 @@ public class ReverseNumberUserInput {
 		{
 			System.out.print(a[i]+" ");
 		}
-		
-
 	}
-
 }
+
+/*
+ *  Enter the length of the array : 5
+ *  Input :- 12345
+ *  Output :- 54321
+ * 
+ */
